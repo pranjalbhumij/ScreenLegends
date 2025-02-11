@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  ScreenLegends
+//
+//  Created by Pranjal Bhumij on 11/02/25.
+//
+
+BASE_URL = https:/$()/api.themoviedb.org/3
+API_KEY = Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyY2Y3MDU3MTFjMzQzNTViMmU4NjgwODQyOTA1MjU2NiIsIm5iZiI6MTczOTE2NjUzMC4xMzYsInN1YiI6IjY3YTk5MzQyMGJmNDZmOGU4ODBmNzQwMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.YjknGRISCA52NLHIBNAkteq2CywI4onr4HvJlqVVhK8
