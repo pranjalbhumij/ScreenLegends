@@ -1,6 +1,6 @@
 # Screen Legends
 
-ScreenLegends is an iOS application built using **SwiftUI**, designed to fetch and display a list of popular screen legends. 
+Screen Legends is an iOS application built using **SwiftUI**, designed to fetch and display a list of popular screen legends. 
 It retrieves data from [The Movie Database API](https://developer.themoviedb.org/). 
 It follows the **MVVM (Model-View-ViewModel) architecture** with a feature-based folder structure for better scalability and maintainability.
 
